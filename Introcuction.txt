@@ -1,0 +1,21 @@
+Title of Project: Real Estate Portal
+Systenm Analysis & Design
+
+Introduction:
+System Analysis and Design is a process through which a business system can be planned, analyzed, designed, identified system-related
+problems, solved those and finally implemented system. Systems, processes and technology are the main focused factors in system analysis and
+design. Before making a real system, first, we need to understand the importance of the system, business value, important features of the system
+that will make the system easy to navigate, how this system operates etc. and to understand these we need to gain knowledge about system
+analysis and design properly.
+The proper implementation of System Analysis and Design has been carried out in our project “Real Estate Portal” where buyers and sellers can
+meet and share in a virtual common ground to carry out property business without the hassle of in-person site visits and infamous money
+transactions scams. Individual sellers or buyers can keep track of their property documents and manage their registration as well as access
+information and do actions such as adding, amending and removing property details. The portal features safe transactions via agents and affiliated
+banks. Besides these subscription-based featured advertisements are another core attribute and main source of earning of this particular online
+portal-based real estate business.
+
+To properly analyze our system, we have identified the business need, business values, requirements of this system and constraints that might be
+faced during navigating this system. Moreover, we have described our system through different types of diagrams such as Usecase diagram to
+analyze our requirements, activity diagram to describe the behavior of our system, sequence diagram to show the messages that pass between
+objects, state machine diagram to depicts the various states that an object might be in, Data flow diagram to depict the movement of data between
+processes, entities, data storage and finally how windows will be navigated through our system.
