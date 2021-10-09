@@ -1,0 +1,17 @@
+Title of Project: Real Estate Portal
+Systenm Analysis & Design
+
+Our motivation behind the “Real Estate Portal” - the project was - we wanted a portal to give an existing property
+company an online home where buyers and sellers will be able to view, buy and sell properties legally while being
+satisfied by accessing all the online services from the comfort of their home.
+To get rid of the traditional offline annoyance of property hunt as well as to reach out to more prospective consumers
+by the use of digital portals, which provide a quick and easy approach for those who have recently moved to a new
+location and do not have access to local publishing yet (especially during the ongoing COVID-19 lockdown or
+pandemic). This eliminates the need for repeated phone calls and trips to the property's location.
+Moreover, the existing systems are very simplistic, as they only give basic property information and detail, with no
+assurance or guarantee of a successful commercial transaction whereas our system includes 3D tours, interactive
+image galleries as part of the portal's media exploration, property sorting, wishlisting, portal language selection, AD
+package subscription, integrated loan calculator and verified agent service.
+In short, to introduce new features in the field of online real estate portals and to eradicate all the popular dilemmas
+and insecurities of online property transactions at the commercial level as well as to present a safe and valid way of
+carrying out online property business we chose the project “Real Estate Portal”.
