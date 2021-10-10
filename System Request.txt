@@ -1,0 +1,65 @@
+Title of Project: Real Estate Portal
+Systenm Analysis & Design
+
+Project Sponsor :
+CEO - Easy Properties
+
+Business Need :
+
+The project has been initiated to give the existing offline property company an online platform to -
+Get rid of the mainstream offline hassle of property hunt (especially during lockdown /pandemic) which eradicates the need
+for frequent calls and visits to the site
+Simplify the tasks of buying, selling, and renting properties of the customers via the company
+Reaching more potential customers as digital portals are a quick and easy way of accessing information for individuals
+who move to a new city and have still no access to local publishing
+Provide assurance of valid and legal transactions while purchasing a property
+
+Business Requirements :
+Website features -
+Extensive and up-to-date information property details (Map view, attractive image gallery and 360° video tour of the
+property, etc.)
+Loan, legal, interior, and property-related consultations service
+Compare between existing properties
+Integrated chat service with an active agent for urgent queries from the customer
+Payment and transactions will be carried through agents
+
+Admins can -
+Add, remove or update property details
+Create, update, delete information from the database.
+Approve requests made by buyers and sellers
+
+Users (Buyer and Seller) can -
+Two-step verification using NID/phone number for improved security
+Edit their personal profile
+Filter, sort, and wishlist properties to buy or to take in rent according to their needs
+Inquiry about specific properties
+Post/edit/remove an advertisement
+Provide feedback regarding the properties, rate other users, and overall service of the portal
+
+Business Values :
+
+Tangible Value -
+The company gets 10% from the transaction made between seller and customer, services (eg. interior service, legal
+service), and advertising fees
+5% increase in sales from the annual fare offer/sale to attract more customers
+Reduce onsite property visit cost of the buyer (transportation cost)
+Trimmed down the company cost of extra employees by Tk. 1,20,000 / month as field agents will not be needed
+anymore to show around the properties to the customers
+Income from featured advertisements (if the client wants to sell his property urgently, he/she can apply for a special
+advertisement for selling his property which will be showcased on the homepage of the portal): Tk. 30,000 / Month.
+
+Intangible Value -
+Satisfaction of customers.
+Referral of customers.
+Improved customer service.
+Better competitive position compared to offline business systems.
+Administration ease of managing property databases.
+
+Constraints :
+Maintain proper security of the portal via registration of legit customers/verification of users.
+Area-wise portal customization (Dhaka/Chittagong etc.) as customers will be from all over the country.
+To get the approval of various banks for becoming company partners in order to carry out seamless on-demand loan
+operations for customers
+Collection of on-demand property showcase materials (photos, 360° video tours,s, etc.) from the potential sellers could be
+challenging.
+To get appreciated and known as a generalized trustful real estate business portal in the country.

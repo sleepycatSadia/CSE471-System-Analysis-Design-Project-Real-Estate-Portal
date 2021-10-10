@@ -1,0 +1,108 @@
+Title of Project: Real Estate Portal
+Systenm Analysis & Design
+
+Functional Requirements :
+1. System
+
+Three separate log in sections for three separate user bases - Admin, Buyers, and Sellers
+The website landing page will feature a moving advertisements portion which will feature urgent alternating
+advertisements posted by the sellers
+To make user interaction engaging the website will feature an attractive image gallery and 360° video tour which will
+be provided by the advertisement poster by default
+Separate global map view section where users can observe the aerial view of their properties
+The website will feature a service section consisting of four subsections - loan, legal, interior, property consultation
+by which a user can navigate through detailed information of that particular subsection
+The portal will feature a loan calculator on every page where a property advertisement and its description will be
+shown to assist the customers in the calculation
+The portal will feature an interactive comparison section where a user can select a bunch of property
+advertisements beforehand and compare them side by side altogether afterward to get an overall idea
+Users will be able to solve their urgent problems and queries via the built-in chat feature of the website where an
+agent will be present to assist them during the office hours
+To ensure proper money transaction payments will be carried out by an agent in-between buyer and seller outside
+of the website while keeping an up-to-date receipt on the website’s database
+To ensure and monitor end-to-end transactions of paying customers will be able to select from the variety of
+affiliated partnered banks of the company included on the website
+
+2. User (Buyer and Seller)
+
+NID Information is a must for signing up. Apart from that, one will need to provide an email address, phone number,
+and password. One can also register through his Facebook account after providing NID information.
+During sign-up and also after logging in, users can determine whether they would like to receive notifications about
+promotions, newsletters, and updates about new properties.
+Users can update information on their personal profiles and can determine who can see their personal information.
+Users can provide feedback regarding the properties, rate other users, and the overall service of the portal.
+Can select their preferred language- Bengali or English.
+2.1. Buyer
+Can search for available properties using the search bar provided on the homepage. He can also customize his search
+using his preferred location, price, or any other keyword.
+Can sort the search result based on property features eg. price, size(in sqft), completion status, number of rooms,
+number of baths, location, floor level, etc.
+Can save his favorite properties to his personal dashboard to view them later at his convenience.
+Can delete properties from their wish list.
+Can inquire about specific properties by using ‘Post a comment or ‘Send email functions.
+Can get the reply of their inquiry in their email inbox or reply section of their own comment.
+Can call the Hotline number provided for any further information they need.
+Can add request posts to buy a specific type of property.
+
+2.2. Seller
+Can advertise their properties using different advertisement packages.
+If someone wants to sell his property urgently, he can apply for the ‘Featured Advertisement’ package by paying an extra
+charge. This type of advertisement will be specially showcased on the homepage of the portal for reaching more potential
+buyers.
+Can add, delete, update necessary information about their respective properties in exchange for a digital bond
+/signature(stating that they are providing valid information and legal actions would be taken against them if any
+information provided by them turns out to be fake) and these requests will be sent to admin for approval.
+Can make a request for deleting, changing the showcase time of their advertisement and for necessary adjustment in the
+fees. In case of deleting the advertisement, the seller will get his money back but it will include a penalty. This penalty will
+be calculated based on the time remaining for the actual showcase deadline requested by the seller.
+
+3. Admin
+
+Admins can approve property details eg. length, size, price, pictures, 360° videos etc of the properties in databases provided
+by the seller.
+Admins have the authority to approve any kind of advertisement or request post related to buying and selling properties that
+have been requested by the sellers as well as buyers if they consider those advertisements as a legal and appropriate one.
+For any illegal and inconsistent requests of the advertisement from the buyers and sellers, admins can reject those
+requests.
+If any buyers or sellers make any urgent requests, admins will check all the necessary information such as payment status
+for granting the urgent requests, legibility of the advertisement. Then they will approve the requests.
+Admins will receive any kind of advertisement-related emails and comments sent by the buyers and sellers and reply to
+those emails and comments. They can also delete any inappropriate and irrelevant comments from the website.
+Admins will control the databases of the portal. If any information needs to be changed about the overall portal, only admins
+have the authority to make those changes in the database. If the users want to add, update or delete any information about
+their profile, properties, posting advertisements, the admin can approve those requests after screening them properly.
+
+Non-Functional Requirements :
+
+1. Operational
+Each registered user will get a distinctive user ID.
+Every property will have a unique property ID.
+Property ID will be added automatically with the inquiry email made by the buyer.
+Employee management staff will get a notification on new user registrations and the requests made by them.
+The system can be accessed from both computer and portable devices.
+2. Performance
+
+System features compressed yet hard to distinguish, quality property photos and videos to ensure faster load time irrespective of access devices
+In the case of scrolling through the menu, there will be a delay of no more than 1 second before the next page of the portal is displayed.
+The user will be able to load the system within 2 milliseconds.
+3. Security
+System features account creation in various methods while keeping NID verification under the hood in every case for ensuring legit customers
+Transaction of money must be carried out by a company agent which eradicates the practice of online scamming
+Personal information of the buyers and sellers will not be provided or used outside of the company
+Data integrity should be maintained if an error occurs or the whole system comes down.
+4. Cultural & Political
+
+Customers can pay the bills for the property advertisements using online banking services provided by the affiliated partner banks or mobile
+banking services provided by Bkash , Rocket, Upaay or Nogod.
+Customers can use two currencies such as BDT & USD for payment.
+Detailed information about the payment policy should be provided to the customers.
+5. Maintainability
+New and old feature integration will be a breeze as the backend of the portal will have built-in version control onboard
+The portal will feature maximum uptime as it will be able to switch in-between multiple servers to avoid the inconvenience of the customers due to
+server down.
+Advertisements will be updated and any pending advertisements will be added after every 12 hours.
+6. Portability
+The portal will be up and usable irrespective of the whole system transferring from one machine to another like Windows to Linux.
+7. Usability
+The interface of the software will be easy to use.
+Font, layout, etc. will be designed in such a manner that users will be able to access the portal comfortably from all types of devices.
