@@ -1,0 +1,43 @@
+Title of Project: Real Estate Portal
+Systenm Analysis & Design
+
+Firstly,the user will try to login into the system using his login credentials.For the valid credentials, users will be able to
+login into the system successfully. If credentials are invalid, then the user will be asked to sign up into the system. During
+sign up,the user needs to verify the information he provides.After signing up,the user will be automatically logged in to the
+system.
+A user can use some features which are common to both buyers and sellers .For example ,he can select Bangla or
+English as system language .He can also provide feedback about the overall portal service,rate properties and other
+users.Besides, user can view his own profile and make necessary changes if he wants .For example, he can update his
+profile information, make changes in his notification and security settings .User can end the process here if he wishes.
+
+But if the user wishes to sell his properties, he will be considered as a seller. Sellers can add, delete and update
+information by providing relevant property information and digital bonds. After that, updated information and bond will be
+sent to the admin for approval. If the admin approves the property information, then the information will be updated in the
+system. The system can end here if the seller wants.
+The seller can advertise his properties by subscribing to an advertisement package. If the seller needs to sell his property
+urgently, he can choose the ‘Featured Advertisement ‘ package which requires him to pay some extra fees. To
+successfully post an advertisement, the seller needs to provide valid property information as well as fulfill payment using
+mobile banking or online banking services provided by the partner banks. After the seller is done with payment, the admin
+will approve the successful completion of payment, and then the advertisement will be published into the system and after
+this, the seller can exit the system if he wishes.
+
+The seller can also change the showcase time of his advertisement by providing a new showcase time which will be
+approved by the admin. After getting approval from the admin, a new showcase time will be applied to his
+advertisement. The seller can also request the deletion of his advertisement. When the request has been approved
+by the admin, the seller will get his money back with some penalty adjusted with it based on the time the
+advertisement deletion request was made and then the advertisement will be deleted from the system. At this point,
+after deleting or updating advertisements’ information, the seller may end the process if he desires.
+If the user wishes to buy properties, he will be considered as a buyer. The buyer can use the search function of the
+system to look for his desire property. If he is not able to find any property he wished to buy, he can request for the specific
+property type and then end the process after that.
+
+.If the buyer finds the properties he was looking for in the search result, he can sort the search result for a better view and
+more efficient searching. He can also compare between two specific properties. Moreover, he can wishlist his
+favourite properties.If he is interested in a specific property, he can see detailed information about it by clicking on ‘View
+property’.If the potential buyer is not satisfied with the details, he can inquire for additional information by posting
+comments, sending an email, or calling the hotline number. He can get replies to his inquiries from the customer care
+service. If he is satisfied with the property information, he can book the property for buying and end the process at that
+point
+.In addition to buying properties, buyers can get different services for example interior service,property-related
+consultation services offered by the portal. He can also calculate loan details using the loan calculator. He can also get
+loans from the affiliated partner banks. After using this service he can also exit the system if he wants to.
