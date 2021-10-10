@@ -31,13 +31,13 @@ If the user wishes to buy properties, he will be considered as a buyer. The buye
 system to look for his desire property. If he is not able to find any property he wished to buy, he can request for the specific
 property type and then end the process after that.
 
-.If the buyer finds the properties he was looking for in the search result, he can sort the search result for a better view and
+If the buyer finds the properties he was looking for in the search result, he can sort the search result for a better view and
 more efficient searching. He can also compare between two specific properties. Moreover, he can wishlist his
 favourite properties.If he is interested in a specific property, he can see detailed information about it by clicking on ‘View
 property’.If the potential buyer is not satisfied with the details, he can inquire for additional information by posting
 comments, sending an email, or calling the hotline number. He can get replies to his inquiries from the customer care
 service. If he is satisfied with the property information, he can book the property for buying and end the process at that
 point
-.In addition to buying properties, buyers can get different services for example interior service,property-related
+In addition to buying properties, buyers can get different services for example interior service,property-related
 consultation services offered by the portal. He can also calculate loan details using the loan calculator. He can also get
 loans from the affiliated partner banks. After using this service he can also exit the system if he wants to.
